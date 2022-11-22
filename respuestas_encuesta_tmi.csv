@@ -1,0 +1,204 @@
+,Promedio,Reprobadas Primer Semestre,Inscritas,Bajas,Espera Aprobar,Sueño,Ejercicio,Tiempo Total,Usa Metro,Línea,Estación Fin,Tiempo Metro PostP,Alumno PreP,Misma Ruta,Tiempo Metro PreP,Estación,Distancia
+1,8.6,4,6,2,Todas,7,Entre 1 y 2,60,Sí,5,Universidad,40.0,Sí,Usaba otra ruta,,Autobuses del Norte,18.715
+2,8.2,2,3,0,2,4,Entre 1 y 2,140,Sí,3,Universidad,60.0,No,,,Indios Verdes,21.278
+3,8.9,3,5,0,Todas,6,Entre 3 y 4,100,Sí,9,Universidad,50.0,Sí,No usaba Metro,,Pantitlán,19.757
+4,8.6,0,5,0,Todas,5,Entre 1 y 2,150,Sí,9,Universidad,90.0,Sí,No usaba Metro,,Pantitlán,19.757
+5,8.0,2,5,1,3,7,Ninguno,80,Sí,3,Universidad,45.0,No,,,Indios Verdes,21.278
+6,8.71,1,5,1,Todas,8,Ninguno,90,No,12 (mediante otro transporte como MB o RTP de apoyo),,,No,,,Mixcoac,0.0
+7,9.4,0,5,0,5,7,Más de 4,2,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,120.0,Sí,Si,120.0,Tláhuac,0.0
+8,8.4,1,5,0,Todas,6,Ninguno,120,No,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,,No,,,Nopalera,0.0
+9,8.2,1,6,1,3,5,Ninguno,180,Sí,6,Universidad,70.0,No,,,El Rosario,24.881
+10,8.7,1,6,0,3,7,Entre 1 y 2,90,No,12 (mediante otro transporte como MB o RTP de apoyo),,,Sí,No usaba Metro,,Zapata,0.0
+11,7.9,1,1,0,1,6,Entre 1 y 2,110,Sí,3,Universidad,50.0,Sí,Si,40.0,Indios Verdes,21.278
+12,9.1,0,5,0,Todas,8,Entre 1 y 2,80,Sí,B,Universidad,70.0,No,,,Múzquiz,29.833
+13,8.0,0,6,1,3,8,Ninguno,100,No,2,Universidad,70.0,Sí,Usaba otra ruta,,Cuatro Caminos,22.372
+14,8.4,1,5,0,Todas,6,Ninguno,70,No,2,Universidad,40.0,Sí,No usaba Metro,,General Anaya,19.045
+15,8.7,1,4,0,Todas,6,Entre 1 y 2,90,Sí,9,Universidad,50.0,Sí,Usaba otra ruta,,Mixiuhca,15.046
+16,9.0,0,3,0,3,6,Entre 3 y 4,70,No,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,30.0,Sí,No usaba Metro,,Insurgentes,14.243
+17,8.0,2,5,1,3,6,Entre 1 y 2,110,Sí,2,Universidad,70.0,No,,,Cuatro Caminos,22.372
+18,8.5,0,6,0,Todas,4,Más de 4,60,Sí,2,Universidad,40.0,No,,,San Cosme,15.375
+19,9.3,0,5,1,2,6,Ninguno,100,Sí,A,Universidad,80.0,Sí,No usaba Metro,,Agrícola Oriental,21.316
+20,7.6,4,6,0,3,6,Ninguno,70,Sí,2,Universidad,30.0,No,,,General Anaya,19.045
+21,8.6,2,3,0,5,8,Entre 1 y 2,60,No,1,Universidad,50.0,Sí,No usaba Metro,,Merced,0.0
+22,8.4,0,2,1,Todas,6,Ninguno,130,Sí,2,Universidad,60.0,No,,,Cuatro Caminos,22.372
+23,7.2,1,5,0,3,6,Entre 1 y 2,60,Sí,8,Universidad,40.0,Sí,No usaba Metro,,Doctores,14.977
+24,9.4,1,4,0,5,6,Entre 3 y 4,80,No,1,Universidad,50.0,No,,,Pantitlán,19.757
+25,8.7,0,6,2,3,5,Entre 1 y 2,40,No,2,Universidad,30.0,No,,,Ermita,18.057
+26,8.7,1,5,2,2,6,Entre 1 y 2,130,Sí,9,Universidad,30.0,No,,,Pantitlán,19.757
+27,8.6,2,5,0,Todas,5,Ninguno,50,No,9,Universidad,30.0,Sí,No usaba Metro,,Chilpancingo,11.716
+28,7.9,1,3,0,Todas,5,Más de 4,80,No,12 (mediante otro transporte como MB o RTP de apoyo),Copilco,60.0,No,,,Pantitlán,18.301
+29,8.8,1,5,0,1,6,Entre 3 y 4,70,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,50.0,Sí,Si,50.0,Observatorio,15.516
+30,8.2,1,6,1,Todas,7,Ninguno,70,No,1,Universidad,50.0,No,,,Pino Suárez,14.532
+31,8.0,0,5,0,5,6,Entre 3 y 4,120,No,5,Universidad,60.0,No,,,Politécnico,21.27
+32,8.5,2,5,0,Todas,5,Entre 1 y 2,90,No,4,Universidad,70.0,No,,,Talismán,21.13
+33,9.1,0,3,0,3,7,Ninguno,50,No,9,Universidad,30.0,Sí,No usaba Metro,,Centro Médico,10.414
+34,8.2,1,5,0,Todas,8,Entre 1 y 2,60,Sí,7,Universidad,40.0,Sí,Si,30.0,San Joaquín,19.114
+35,7.9,3,6,0,Todas,5,Entre 1 y 2,30,Sí,2,Universidad,20.0,Sí,Si,30.0,Ermita,18.057
+36,8.1,0,5,0,3,4,Entre 1 y 2,80,Sí,1,Universidad,50.0,Sí,Usaba otra ruta,,Chapultepec,15.689
+37,8.0,1,6,1,Todas,5,Entre 1 y 2,70,Sí,9,Universidad,40.0,Sí,No usaba Metro,,Velódromo,16.017
+38,7.3,1,5,0,Todas,5,Entre 1 y 2,60,Sí,1,Universidad,50.0,Sí,No usaba Metro,,Cuauhtémoc,13.3
+39,8.6,3,6,0,Todas,7,Más de 4,70,Sí,1,Universidad,40.0,No,,,Salto del Agua,15.596
+40,8.1,2,5,0,2,6,Más de 4,110,Sí,A,Universidad,70.0,Sí,Si,50.0,Pantitlán,19.757
+41,9.1,1,4,1,Todas,5,Ninguno,70,Sí,1,Universidad,30.0,Sí,Si,60.0,Observatorio,15.516
+42,8.4,1,6,0,3,5,Ninguno,100,No,2,Universidad,70.0,Sí,No usaba Metro,,Cuatro Caminos,22.372
+43,7.9,1,5,0,Todas,8,Entre 3 y 4,90,Sí,1,Universidad,80.0,Sí,No usaba Metro,,Zaragoza,0.0
+44,7.5,1,5,0,3,5,Ninguno,110,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,90.0,No,,,Pantitlán,19.757
+45,8.9,2,2,0,Todas,6,Entre 1 y 2,100,Sí,3,Universidad,70.0,No,,,Indios Verdes,21.278
+46,8.2,0,5,1,3,5,Entre 1 y 2,100,Sí,1,Universidad,50.0,Sí,Usaba otra ruta,,Observatorio,15.516
+47,9.3,1,5,1,Todas,4,Entre 1 y 2,60,Sí,1,Universidad,40.0,No,,,Insurgentes,14.243
+48,7.6,3,3,0,1,5,Ninguno,70,Sí,1,Universidad,60.0,No,,,Moctezuma,0.0
+49,7.3,1,2,0,Todas,6,Entre 1 y 2,70,Sí,2,Universidad,40.0,Sí,No usaba Metro,,Tasqueña,20.525
+50,7.9,1,2,0,Todas,6,Ninguno,100,Sí,8,Universidad,60.0,No,,,Constitución de 1917,25.702
+51,8.6,2,3,0,Todas,7,Entre 1 y 2,90,No,,,,,,,,0.0
+52,8.5,1,4,1,Todas,6,Más de 4,100,Sí,1,Universidad,60.0,No,,,Pantitlán,19.757
+53,8.2,3,6,1,Todas,5,Entre 1 y 2,100,Sí,A,Universidad,80.0,Sí,Si,60.0,La Paz,34.65
+54,8.3,0,6,0,5,6,Entre 3 y 4,50,No,,,,,,,,0.0
+55,8.8,1,5,1,3,5,Entre 1 y 2,100,Sí,A,Universidad,80.0,No,,,Santa Marta,30.611
+56,8.9,1,6,0,Todas,6,Entre 1 y 2,70,Sí,9,Universidad,40.0,Sí,No usaba Metro,,Tacubaya,14.104
+57,9.1,3,6,2,3,5,Entre 1 y 2,60,Sí,2,Universidad,50.0,Sí,Si,50.0,Cuatro Caminos,22.372
+58,8.8,1,6,0,Todas,5,Ninguno,110,Sí,3,Universidad,70.0,No,,,Indios Verdes,21.278
+59,9.2,0,Más de 6,1,Todas,5,Ninguno,80,No,,,,,,,,0.0
+60,8.5,3,2,0,Todas,5,Entre 1 y 2,60,No,,,,,,,,0.0
+61,9.6,0,5,0,5,6,Entre 1 y 2,20,Sí,3,Universidad,10.0,Sí,Usaba otra ruta,,Miguel Ángel de Quevedo,2.901
+62,9.4,1,5,0,4,6,Entre 1 y 2,90,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,60.0,Sí,No usaba Metro,,Periférico Oriente,0.0
+63,7.8,2,6,0,3,6,Entre 1 y 2,50,No,,,,,,,,0.0
+64,8.5,2,3,0,2,8,Ninguno,110,Sí,9,Universidad,60.0,Sí,Si,40.0,Pantitlán,19.757
+65,8.4,1,5,0,Todas,5,Ninguno,80,No,,,,,,,,0.0
+66,8.7,3,6,0,Todas,7,Entre 1 y 2,80,Sí,8,Universidad,50.0,No,,,Santa Anita,14.549
+67,7.7,1,5,0,Todas,6,Entre 1 y 2,60,No,,,,,,,,0.0
+68,8.8,3,5,2,Todas,7,Entre 1 y 2,110,No,,,,,,,,0.0
+69,6.9,4,5,0,3,5,Ninguno,110,Sí,3,Universidad,70.0,Sí,Si,70.0,Indios Verdes,21.278
+70,9.2,1,4,0,Todas,8,Entre 1 y 2,130,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,80.0,No,,,Tláhuac,0.0
+71,8.3,1,5,0,3,8,Entre 1 y 2,70,Sí,2,Universidad,40.0,Sí,Usaba otra ruta,,Hidalgo,13.951
+72,8.2,1,5,0,Todas,4,Ninguno,110,Sí,B,Universidad,90.0,Sí,No usaba Metro,,Ciudad Azteca,33.797
+73,8.9,1,5,0,4,6,Ninguno,80,Sí,9,Universidad,60.0,Sí,No usaba Metro,,Pantitlán,19.757
+74,8.2,0,Más de 6,1,Todas,6,Entre 1 y 2,100,Sí,B,Universidad,80.0,Sí,Si,80.0,Múzquiz,29.833
+75,8.6,1,5,1,5,6,Entre 3 y 4,70,No,,,,,,,,0.0
+76,8.4,2,4,0,Todas,8,Más de 4,50,Sí,2,Universidad,40.0,No,,,Viaducto,13.697
+77,8.3,4,5,0,Todas,6,Ninguno,120,Sí,A,Universidad,90.0,No,,,Acatitla,29.361
+78,8.5,1,5,0,5,6,Entre 1 y 2,90,No,,,,,,,,0.0
+79,7.6,0,6,0,5,6,Entre 1 y 2,60,Sí,8,Universidad,40.0,No,,,UAM-I,24.415
+80,8.3,4,5,0,Todas,6,Entre 1 y 2,60,Sí,3,Universidad,40.0,No,,,Tlatelolco,15.995
+81,8.5,1,6,1,5,5,Ninguno,100,Sí,8,Universidad,70.0,No,,,Constitución de 1917,25.702
+82,8.9,1,5,0,Todas,5,Entre 1 y 2,80,Sí,5,Universidad,60.0,Sí,No usaba Metro,,La Raza,17.59
+83,8.8,2,3,0,2,7,Entre 3 y 4,60,Sí,8,Universidad,40.0,Sí,No usaba Metro,,Escuadrón 201,19.493
+84,7.5,1,5,0,3,8,Entre 1 y 2,130,Sí,B,Universidad,110.0,Sí,No usaba Metro,,Plaza Aragón,33.073
+85,7.9,1,5,1,2,7,Ninguno,90,Sí,9,Universidad,50.0,No,,,Puebla,18.227
+86,8.9,2,6,0,5,7,Entre 1 y 2,70,No,,,,,,,,0.0
+87,8.7,1,5,2,Todas,6,Entre 1 y 2,110,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,80.0,Sí,Si,60.0,Tláhuac,0.0
+88,7.9,2,4,0,Todas,5,Entre 1 y 2,100,Sí,7,Universidad,60.0,Sí,Si,50.0,Camarones,21.564
+89,8.0,1,4,0,Todas,7,Más de 4,70,No,,,,,,,,0.0
+90,7.7,2,5,0,Todas,6,Entre 1 y 2,20,No,,,,,,,,0.0
+91,9.0,1,4,0,Todas,6,Entre 3 y 4,60,Sí,7,Universidad,50.0,Sí,No usaba Metro,,Mixcoac,17.032
+92,9.3,0,6,0,5,5,Entre 1 y 2,110,Sí,2,Universidad,60.0,Sí,Si,60.0,Cuatro Caminos,22.372
+93,9.0,0,5,0,Todas,6,Entre 1 y 2,60,Sí,9,Universidad,30.0,No,,,Chilpancingo,11.716
+94,8.7,1,5,0,Todas,6,Ninguno,110,No,,,,,,,,0.0
+95,8.5,0,1,5,Todas,6,Entre 1 y 2,60,No,,,,,,,,0.0
+96,7.1,1,4,0,Todas,5,Entre 1 y 2,40,No,,,,,,,,0.0
+97,8.3,0,5,1,3,5,Entre 3 y 4,50,No,,,,,,,,0.0
+98,8.7,1,4,0,3,5,Ninguno,70,Sí,8,Universidad,60.0,Sí,Si,60.0,San Juan de Letrán,15.154
+99,8.9,0,5,0,3,7,Entre 1 y 2,70,Sí,8,Universidad,50.0,Sí,No usaba Metro,,Aculco,18.554
+100,9.3,1,5,0,Todas,5,Más de 4,70,Sí,3,Universidad,50.0,No,,,Deportivo 18 de Marzo,19.962
+101,7.6,1,5,3,Todas,5,Entre 1 y 2,70,Sí,2,Universidad,50.0,Sí,Usaba otra ruta,,San Cosme,15.375
+102,8.4,2,6,0,2,4,Más de 4,70,Sí,9,Universidad,30.0,No,,,Tacubaya,14.104
+103,8.5,0,3,0,Todas,7,Entre 1 y 2,80,Sí,4,Universidad,50.0,Sí,No usaba Metro,,Santa Anita,14.549
+104,8.7,1,6,1,Todas,5,Ninguno,100,Sí,9,Universidad,50.0,No,,,Pantitlán,19.757
+105,9.1,1,5,2,3,7,Más de 4,70,Sí,8,Universidad,50.0,No,,,Iztapalapa,22.263
+106,9.7,1,4,0,2,8,Ninguno,60,No,,,,,,,,0.0
+107,8.2,0,5,0,3,5,Ninguno,50,No,,,,,,,,0.0
+108,7.7,0,5,2,Todas,4,Más de 4,50,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Copilco,30.0,Sí,Si,20.0,Mixcoac,15.576
+109,7.0,0,5,2,3,6,Entre 1 y 2,40,Sí,3,Universidad,10.0,Sí,No usaba Metro,,Copilco,1.456
+110,8.7,1,4,2,2,5,Ninguno,60,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,40.0,Sí,No usaba Metro,,Tláhuac,0.0
+111,8.8,3,3,1,Todas,6,Ninguno,90,No,,,,,,,,0.0
+112,9.4,2,5,1,2,4,Más de 4,70,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Copilco,40.0,No,,,Tláhuac,0.0
+113,7.8,0,5,0,Todas,5,Entre 1 y 2,50,Sí,2,Universidad,40.0,Sí,Si,30.0,Pino Suárez,14.532
+114,8.6,1,5,1,Todas,5,Entre 1 y 2,60,Sí,9,Universidad,40.0,Sí,No usaba Metro,,Patriotismo,12.821
+115,8.6,1,5,0,3,5,Entre 1 y 2,60,Sí,9,Copilco,40.0,Sí,Si,10.0,Patriotismo,11.365
+116,7.2,1,5,0,Todas,7,Ninguno,170,Sí,B,Universidad,110.0,No,,,Ciudad Azteca,33.797
+117,7.6,1,5,0,2,7,Ninguno,70,Sí,2,Universidad,50.0,Sí,Si,50.0,Pino Suárez,14.532
+118,8.5,1,5,0,Todas,4,Entre 1 y 2,70,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,50.0,No,,,Tláhuac,0.0
+119,7.7,2,5,1,Todas,6,Ninguno,70,Sí,8,Universidad,40.0,No,,,La Viga,13.766
+120,8.5,1,4,0,2,6,Ninguno,120,Sí,A,Universidad,100.0,Sí,Si,80.0,Santa Marta,30.611
+121,9.0,1,5,0,Todas,4,Entre 3 y 4,10,Sí,3,Universidad,40.0,No,,,Universidad,0.0
+122,8.0,0,5,0,Todas,5,Entre 3 y 4,80,Sí,1,Universidad,70.0,Sí,Usaba otra ruta,,Zaragoza,0.0
+123,7.6,1,6,0,Todas,5,Entre 1 y 2,90,Sí,A,Universidad,60.0,No,,,Pantitlán,19.757
+124,8.8,4,5,0,3,4,Entre 3 y 4,90,No,,,,,,,,0.0
+125,9.0,1,6,0,Todas,6,Entre 1 y 2,80,No,,,,,,,,0.0
+126,8.1,4,5,0,2,5,Entre 1 y 2,90,Sí,1,Universidad,60.0,No,,,Boulevard Puerto Aéreo,0.0
+127,8.3,2,5,0,Todas,8,Entre 1 y 2,110,Sí,B,Universidad,90.0,Sí,Si,80.0,Ecatepec,31.468
+128,8.8,1,5,0,3,6,Entre 1 y 2,20,Sí,3,Universidad,0.0,Sí,No usaba Metro,,Universidad,0.0
+129,8.6,1,4,0,3,4,Ninguno,90,Sí,6,Copilco,70.0,Sí,Si,70.0,Martín Carrera,20.517
+130,7.8,1,6,0,Todas,6,Entre 1 y 2,90,No,,,,,,,,0.0
+131,8.5,0,6,1,5,6,Entre 3 y 4,100,Sí,3,Universidad,80.0,Sí,Si,50.0,Deportivo 18 de Marzo,19.962
+132,9.1,1,5,0,Todas,7,Entre 3 y 4,100,Sí,B,Universidad,70.0,Sí,Usaba otra ruta,,San Lázaro,18.578
+133,8.5,0,6,1,2,6,Más de 4,120,Sí,A,Universidad,90.0,Sí,Si,80.0,Los Reyes,32.544
+134,8.7,1,6,1,3,5,Entre 3 y 4,60,No,,,,,,,,0.0
+135,9.4,0,5,0,Todas,5,Entre 1 y 2,70,No,,,,,,,,0.0
+136,6.5,1,5,0,3,6,Entre 1 y 2,50,Sí,9,Universidad,30.0,Sí,Si,20.0,Lázaro Cárdenas,11.623
+137,7.6,2,2,0,Todas,4,Ninguno,120,Sí,B,Universidad,90.0,No,,,Ciudad Azteca,33.797
+138,8.0,0,5,0,Todas,4,Entre 1 y 2,100,Sí,6,Universidad,80.0,Sí,Usaba otra ruta,,La Villa-Basílica,20.682
+139,8.0,2,6,0,Todas,5,Entre 1 y 2,70,No,,,,,,,,0.0
+140,9.1,0,6,0,4,6,Ninguno,140,Sí,9,Universidad,70.0,Sí,Usaba otra ruta,,Pantitlán,19.757
+141,8.7,0,5,0,Todas,6,Entre 3 y 4,120,Sí,B,Universidad,90.0,Sí,Si,80.0,Ciudad Azteca,33.797
+142,7.7,1,5,0,3,8,Ninguno,70,Sí,9,Universidad,40.0,No,,,Tacubaya,14.104
+143,8.9,0,5,0,3,5,Entre 1 y 2,100,No,,,,,,,,0.0
+144,8.6,4,6,0,2,4,Entre 1 y 2,90,No,,,,,,,,0.0
+145,8.0,1,6,1,5,7,Entre 1 y 2,120,Sí,B,Universidad,90.0,Sí,Si,90.0,Plaza Aragón,33.073
+146,8.6,1,4,0,Todas,7,Entre 1 y 2,100,Sí,2,Universidad,70.0,Sí,Usaba otra ruta,,Cuatro Caminos,22.372
+147,8.7,1,5,0,3,5,Ninguno,30,Sí,3,Universidad,10.0,Sí,Si,10.0,Miguel Ángel de Quevedo,2.901
+148,9.0,3,5,0,5,5,Entre 1 y 2,70,Sí,B,Universidad,50.0,Sí,Usaba otra ruta,,Buenavista,15.474
+149,8.5,2,5,0,Todas,6,Entre 3 y 4,90,Sí,4,Universidad,60.0,Sí,Si,40.0,Morelos,17.132
+150,7.6,1,5,0,3,5,Entre 1 y 2,90,Sí,2,Universidad,60.0,Sí,Usaba otra ruta,,Normal,16.182
+151,8.8,1,6,1,2,6,Entre 1 y 2,90,Sí,B,Universidad,70.0,Sí,No usaba Metro,,Ecatepec,31.468
+152,8.1,1,5,2,3,6,Ninguno,80,No,,,,,,,,0.0
+153,8.8,2,6,2,4,5,Entre 1 y 2,100,Sí,9,Universidad,100.0,No,,,Pantitlán,19.757
+154,9.0,2,6,0,Todas,7,Entre 1 y 2,20,No,,,,,,,,0.0
+155,8.9,2,2,1,Todas,6,Entre 3 y 4,90,Sí,6,Copilco,60.0,Sí,Si,60.0,Martín Carrera,20.517
+156,7.9,3,Más de 6,1,Todas,7,Entre 1 y 2,90,No,,,,,,,,0.0
+157,9.0,0,5,0,Todas,5,Entre 1 y 2,80,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,60.0,Sí,No usaba Metro,,San Andrés Tomatlán,0.0
+158,7.5,2,5,0,4,5,Ninguno,90,Sí,3,Universidad,60.0,Sí,Si,50.0,Indios Verdes,21.278
+159,8.7,2,5,0,Todas,5,Entre 1 y 2,70,Sí,5,Universidad,50.0,No,,,Hangares,21.551
+160,7.5,0,6,1,Todas,6,Entre 1 y 2,120,Sí,B,Universidad,90.0,Sí,Si,90.0,Ciudad Azteca,33.797
+161,9.2,1,Más de 6,1,5,4,Entre 3 y 4,60,No,,,,,,,,0.0
+162,8.9,2,5,0,2,4,Entre 1 y 2,70,Sí,4,Universidad,50.0,No,,,Canal del Norte,18.192
+163,8.6,0,5,0,3,5,Entre 1 y 2,100,Sí,9,Universidad,60.0,Sí,Usaba otra ruta,,Pantitlán,19.757
+164,8.4,0,6,0,4,7,Entre 1 y 2,90,No,,,,,,,,0.0
+165,9.4,1,5,0,Todas,8,Entre 3 y 4,50,Sí,1,Universidad,35.0,Sí,No usaba Metro,,Sevilla,15.038
+166,8.4,1,5,0,3,8,Ninguno,20,No,,,,,,,,0.0
+167,8.4,0,6,0,Todas,6,Ninguno,70,Sí,3,Universidad,50.0,No,,,Potrero,18.846
+168,8.9,1,6,0,Todas,4,Entre 1 y 2,70,No,,,,,,,,0.0
+169,8.6,1,Más de 6,2,5,7,Entre 1 y 2,100,Sí,2,Universidad,70.0,Sí,Si,60.0,Cuatro Caminos,22.372
+170,8.5,1,6,1,2,7,Entre 1 y 2,90,Sí,9,Universidad,60.0,Sí,Si,50.0,Puebla,18.227
+171,9.1,1,5,0,Todas,5,Ninguno,100,Sí,6,Copilco,60.0,No,,,Martín Carrera,20.517
+172,8.3,2,5,0,Todas,8,Entre 1 y 2,90,No,,,,,,,,0.0
+173,7.5,1,5,0,Todas,5,Entre 1 y 2,80,Sí,2,Universidad,60.0,Sí,Si,60.0,Popotla,17.46
+174,8.5,3,3,0,2,6,Entre 3 y 4,80,Sí,B,Universidad,60.0,No,,,Guerrero,14.803
+175,8.8,1,2,0,2,4,Entre 3 y 4,60,Sí,9,Universidad,40.0,No,,,Lázaro Cárdenas,11.623
+176,7.5,2,5,0,3,4,Entre 1 y 2,110,Sí,12 (mediante otro transporte como MB o RTP de apoyo),Universidad,80.0,Sí,No usaba Metro,,Calle 11,0.0
+177,8.6,1,5,0,Todas,6,Entre 1 y 2,140,Sí,2,Copilco,60.0,Sí,Si,60.0,Cuatro Caminos,20.916
+178,8.2,0,6,0,3,5,Entre 1 y 2,60,Sí,3,Universidad,30.0,No,,,Centro Médico,10.414
+179,8.2,2,5,0,4,7,Ninguno,140,Sí,2,Copilco,70.0,Sí,Usaba otra ruta,,Cuatro Caminos,20.916
+180,8.8,4,5,1,3,6,Ninguno,70,Sí,B,Universidad,50.0,No,,,Oceanía,21.652
+181,9.0,3,6,0,3,7,Entre 3 y 4,70,Sí,1,Universidad,40.0,Sí,Usaba otra ruta,,Insurgentes,14.243
+182,8.4,1,5,0,3,5,Entre 3 y 4,170,No,,,,,,,,0.0
+183,8.3,1,5,1,3,5,Entre 1 y 2,80,No,,,,,,,,0.0
+184,8.3,2,5,0,Todas,5,Entre 3 y 4,80,No,,,,,,,,0.0
+185,8.1,1,5,0,Todas,8,Entre 3 y 4,80,Sí,9,Universidad,50.0,Sí,Si,40.0,Tacubaya,14.104
+186,8.4,4,4,0,3,5,Entre 3 y 4,90,Sí,8,Universidad,60.0,Sí,Si,30.0,Cerro de la Estrella,23.13
+187,8.6,0,6,0,Todas,8,Entre 1 y 2,60,Sí,1,Universidad,40.0,Sí,No usaba Metro,,Tacubaya,14.104
+188,8.3,2,6,0,3,7,Entre 1 y 2,50,No,,,,,,,,0.0
+189,8.0,1,5,1,Todas,7,Más de 4,130,Sí,9,Universidad,70.0,Sí,Si,60.0,Pantitlán,19.757
+190,8.2,1,5,1,4,8,Ninguno,30,No,,,,,,,,0.0
+191,9.6,2,5,0,Todas,6,Entre 1 y 2,90,No,,,,,,,,0.0
+192,7.6,0,4,0,Todas,6,Ninguno,60,No,,,,,,,,0.0
+193,8.4,0,Más de 6,1,Todas,6,Más de 4,110,No,,,,,,,,0.0
+194,8.1,2,5,1,2,5,Entre 1 y 2,80,Sí,4,Universidad,60.0,Sí,No usaba Metro,,Talismán,21.13
+195,7.6,1,3,0,Todas,4,Ninguno,90,Sí,3,Universidad,40.0,Sí,Si,40.0,Hidalgo,13.951
+196,7.4,1,3,1,Todas,7,Entre 1 y 2,80,Sí,B,Universidad,50.0,No,,,Buenavista,15.474
+197,8.9,3,6,0,3,5,Entre 1 y 2,70,No,,,,,,,,0.0
+198,8.6,2,5,0,Todas,6,Entre 1 y 2,130,Sí,5,Universidad,70.0,No,,,Politécnico,21.27
+199,8.9,2,6,0,4,7,Ninguno,90,Sí,9,Universidad,60.0,Sí,Usaba otra ruta,,Pantitlán,19.757
+200,8.6,0,5,0,4,8,Ninguno,60,No,,,,,,,,0.0
+201,8.4,2,5,0,3,5,Ninguno,60,No,,,,,,,,0.0
+202,9.0,1,6,0,2,6,Entre 1 y 2,90,Sí,3,Universidad,60.0,Sí,Si,50.0,Deportivo 18 de Marzo,19.962
+203,9.2,0,6,0,Todas,6,Ninguno,110,Sí,B,Universidad,70.0,No,,,Ciudad Azteca,33.797
